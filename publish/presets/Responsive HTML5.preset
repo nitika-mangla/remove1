@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <title>assa</title>
+  <content>
+    <toc>
+      <name>assa</name>
+      <path>../../toc/assa.toc</path>
+    </toc>
+    <index type="boolean">true</index>
+    <glossary>
+      <name>assa</name>
+      <path>../../glossary/assa.glo</path>
+    </glossary>
+    <brs type="array"></brs>
+    <mapFiles type="array">
+      <mapFilesitem>
+        <name>BSSCDefault</name>
+        <path>../mapfiles/BSSCDefault.ali</path>
+      </mapFilesitem>
+    </mapFiles>
+  </content>
+  <type>html5</type>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <outputPath>C:/Users/nitika/Documents/My RoboHelp Projects/outputs/assa/Responsive_HTML5</outputPath>
+  <name>Responsive HTML5</name>
+  <starterPage>index.htm</starterPage>
+  <defaultTopic>
+    <name>First_Topic</name>
+    <path>../../contents/First_Topic.htm</path>
+  </defaultTopic>
+  <lowercasenames type="number">0</lowercasenames>
+  <search>
+    <suggestion type="boolean">true</suggestion>
+    <context type="boolean">true</context>
+    <contextLimit>100</contextLimit>
+    <glossary type="boolean">true</glossary>
+    <fuzzy type="boolean">true</fuzzy>
+  </search>
+  <sitemap>
+    <use type="boolean">true</use>
+    <helpBaseURL></helpBaseURL>
+    <changeFrequency>Monthly</changeFrequency>
+  </sitemap>
+  <skin>
+    <path>../skins/Charcoal_Grey/html5.skn</path>
+  </skin>
+  <createThumbNails type="boolean">false</createThumbNails>
+</preset>

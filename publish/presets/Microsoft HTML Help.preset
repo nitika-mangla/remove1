@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/assa.toc</path>
+      <name>assa</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/assa.glo</path>
+      <name>assa</name>
+    </glossary>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+  </content>
+  <outputPath>C:/Users/nitika/Documents/My RoboHelp Projects/outputs/assa/Microsoft_HTML_Help</outputPath>
+  <starterPage>assa.chm</starterPage>
+  <search>
+    <context type="boolean">false</context>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <name>Microsoft HTML Help</name>
+  <type>chm</type>
+  <title>assa</title>
+  <defaultTopic>
+    <name>First_Topic.htm</name>
+    <path>../../contents/First_Topic.htm</path>
+  </defaultTopic>
+  <lowercasenames type="number">0</lowercasenames>
+</preset>
